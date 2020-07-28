@@ -100,7 +100,7 @@
   </link>
 
   <joint name="sphere_joint" type="fixed">
-    <origin xyz="5.9 -4.6 0" />
+    <origin xyz="5.9 -4.6 0.4" />
     <parent link="world" />
     <child link="sphere_link" />
   </joint>
